@@ -1,6 +1,7 @@
-networkx
 streamlit
+numpy
 matplotlib
+
 
 
 
